@@ -1,0 +1,27 @@
+{
+  "name": "MogalmAI Token",
+  "symbol": "MAI",
+  "description": "Collection of Meme tokens",
+  "image": "https://github.com/akSolkhatri/Token-Images/blob/main/MogalmAI%20token2.png",
+  "attributes": [
+    {
+      "trait_type": "Coolness",
+      "value": "Very High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/akSolkhatri/Token-Images/blob/main/MogalmAI%20token2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "46M6EaLHBs5BvcTEi5PCffkUHB2R1Pt53taLhWbuPG5d",
+        "share": 100
+      }
+    ]
+  }
+}
